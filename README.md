@@ -12,7 +12,7 @@ Slime Strider is a simple top-down shooter made in the Godot engine by Jaleen Bo
   
 3) *Fast Slime moves x-ward and "bounces" when it touches x-boundary. Increases Speed by 10% for each bounce.
 
-  Incomplete
+  Complete
   
 4) *Add Missile Explosions that knocks slimes x-ward, if not kill them. Direct hits nerfed to 5 damage, but explosion deals 50 damage.
 
